@@ -4,7 +4,7 @@ This project focuses on data cleaning and EDA using a global layoffs dataset fro
 
 ## Key Steps & Workflow
 
-* **Data Cleaning:** Removed duplicate records, standardized text and date formatting, handled missing/null values, and removed unnecessary columns or rows to ensure data integrity.
+* **Data Cleaning:** Removed duplicate records, standardized text and date formatting, handled missing/null values, and removed unnecessary rows to ensure data integrity.
 * **Exploratory Data Analysis (EDA):** Executed CTEs, window functions, and rolling aggregation queries to identify trends, yearly company rankings, and sector impacts.
 
 ## Key Insights
